@@ -1,0 +1,15 @@
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\SortingEnemys.exe
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\SortingEnemys.deps.json
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\SortingEnemys.runtimeconfig.json
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\SortingEnemys.dll
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\SortingEnemys.pdb
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.AssemblyInfoInputs.cache
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.AssemblyInfo.cs
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.csproj.CoreCompileInputs.cache
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.dll
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\refint\SortingEnemys.dll
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.pdb
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\SortingEnemys.genruntimeconfig.cache
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\obj\Debug\net9.0\ref\SortingEnemys.dll
+C:\Users\accj1\OneDrive\Área de Trabalho\Disciplinas-2025\FPAA\SortingEnemys\SortingEnemys\bin\Debug\net9.0\enemys\enemys.txt
