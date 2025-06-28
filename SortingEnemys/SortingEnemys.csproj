@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="sorting\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="enemys\enemys.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

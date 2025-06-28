@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\enemys\\enemys.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:enemys\\enemys.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\enemys\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:enemys\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\read\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:read\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\write\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:write\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\sorting\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:sorting\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\staticstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\staticstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\staticqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\staticqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\staticlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\staticlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\dynamiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\dynamiclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\dynamicstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\dynamicstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\dynamicqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\dynamicqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\dynamiclistsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\dynamiclistsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|c:\\users\\jvito\\documents\\github\\sortingenemys\\sortingenemys\\estruturas\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177910F1-1057-D77C-0560-ADE19F3FBC10}|SortingEnemys.csproj|solutionrelative:estruturas\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAYwDQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:01:27.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\HashTable.cs",
+              "RelativeDocumentMoniker": "estruturas\\HashTable.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\HashTable.cs",
+              "RelativeToolTip": "estruturas\\HashTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:46:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "estruturas\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\BinarySearchTree.cs",
+              "RelativeToolTip": "estruturas\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:43:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "estruturas\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\BinarySearch.cs",
+              "RelativeToolTip": "estruturas\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:43:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DynamicListSorter.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicListSorter.cs",
+              "RelativeDocumentMoniker": "estruturas\\DynamicListSorter.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicListSorter.cs",
+              "RelativeToolTip": "estruturas\\DynamicListSorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:42:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DynamicQueue.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicQueue.cs",
+              "RelativeDocumentMoniker": "estruturas\\DynamicQueue.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicQueue.cs",
+              "RelativeToolTip": "estruturas\\DynamicQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:42:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DynamicStack.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicStack.cs",
+              "RelativeDocumentMoniker": "estruturas\\DynamicStack.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicStack.cs",
+              "RelativeToolTip": "estruturas\\DynamicStack.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:37:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DynamicList.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicList.cs",
+              "RelativeDocumentMoniker": "estruturas\\DynamicList.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\DynamicList.cs",
+              "RelativeToolTip": "estruturas\\DynamicList.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:35:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticList.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticList.cs",
+              "RelativeDocumentMoniker": "estruturas\\StaticList.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticList.cs",
+              "RelativeToolTip": "estruturas\\StaticList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:33:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaticQueue.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticQueue.cs",
+              "RelativeDocumentMoniker": "estruturas\\StaticQueue.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticQueue.cs",
+              "RelativeToolTip": "estruturas\\StaticQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:31:19.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticStack.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticStack.cs",
+              "RelativeDocumentMoniker": "estruturas\\StaticStack.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\estruturas\\StaticStack.cs",
+              "RelativeToolTip": "estruturas\\StaticStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:30:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\sorting\\Sorter.cs",
+              "RelativeDocumentMoniker": "sorting\\Sorter.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\sorting\\Sorter.cs",
+              "RelativeToolTip": "sorting\\Sorter.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwNsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:24:14.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\write\\Writer.cs",
+              "RelativeDocumentMoniker": "write\\Writer.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\write\\Writer.cs",
+              "RelativeToolTip": "write\\Writer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:21:44.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\read\\Reader.cs",
+              "RelativeDocumentMoniker": "read\\Reader.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\read\\Reader.cs",
+              "RelativeToolTip": "read\\Reader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:01:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enemys.txt",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\enemys\\enemys.txt",
+              "RelativeDocumentMoniker": "enemys\\enemys.txt",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\enemys\\enemys.txt",
+              "RelativeToolTip": "enemys\\enemys.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-28T17:56:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\enemys\\Enemy.cs",
+              "RelativeDocumentMoniker": "enemys\\Enemy.cs",
+              "ToolTip": "C:\\Users\\jvito\\Documents\\GitHub\\SortingEnemys\\SortingEnemys\\enemys\\Enemy.cs",
+              "RelativeToolTip": "enemys\\Enemy.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:56:08.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
